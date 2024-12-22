@@ -26,8 +26,8 @@ A strong password must:
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/your-username/flask-signup-app.git
-    cd flask-signup-app
+    git clone https://github.com/SurendraRedd/python_endpoint_for_signing_up.git
+    cd python_endpoint_for_signing_up
     ```
 
 2. **Create a virtual environment**:
