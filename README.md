@@ -53,7 +53,7 @@ A strong password must:
 
 ## Usage
 
-You can test the signup endpoint using tools like Postman or cURL.
+You can test the signup endpoint using tools like Postman or cURL or bruno.
 
 ### Example cURL Request
 
@@ -61,3 +61,7 @@ You can test the signup endpoint using tools like Postman or cURL.
 curl -X POST http://127.0.0.1:5000/signup \
 -H "Content-Type: application/json" \
 -d '{"username": "testuser", "password": "StrongPassword123!"}'
+```
+### bruno
+<img width="781" alt="image" src="https://github.com/user-attachments/assets/0ae8d74f-8777-45c5-8865-6feca444f51a" />
+
